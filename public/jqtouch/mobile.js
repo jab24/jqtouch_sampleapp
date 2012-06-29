@@ -15,4 +15,10 @@ var jQT = new $.jQTouch({
 
 jQuery(function() {
   // Add custom handler code here.
+	$("#month").bind("pageAnimationEnd" ,function(e,info){
+		alert("Animating #month " + info.direction);
+	});
+	$("#home").bind("pageAnimationEnd" ,function(e,info){
+		alert("Animating #home " + info.direction);
+	});
 });
