@@ -1,0 +1,37 @@
+CACHE MANIFEST
+# Rev 2009-12-10
+
+/index.html
+/jqtouch/jqtouch/jqtouch.min.css
+/jqtouch/themes/jqt/theme.min.css
+/jqtouch/mobile.css
+/jqtouch/jqtouch/jquery.1.3.2.min.js
+/jqtouch/jqtouch/jqtouch.min.js
+/jqtouch/javascripts/raphael-min.js
+/jqtouch/javascripts/topfunky-sparkline.js
+/jqtouch/mobile.js
+/jqtouch/themes/jqt/img/back_button.png
+/jqtouch/themes/jqt/img/back_button_clicked.png
+/jqtouch/themes/jqt/img/button.png
+/jqtouch/themes/jqt/img/button_clicked.png
+/jqtouch/themes/jqt/img/chevron.png
+/jqtouch/themes/jqt/img/chevron_circle.png
+/jqtouch/themes/jqt/img/grayButton.png
+/jqtouch/themes/jqt/img/loading.gif
+/jqtouch/themes/jqt/img/on_off.png
+/jqtouch/themes/jqt/img/rowhead.png
+/jqtouch/themes/jqt/img/toggle.png
+/jqtouch/themes/jqt/img/toggleOn.png
+/jqtouch/themes/jqt/img/toolbar.png
+/jqtouch/themes/jqt/img/whiteButton.png
+
+NETWORK:
+/api/
+/days
+/month.json
+/sessions
+
+# FALLBACK:
+# /a /b
+# 
+# CACHE:
